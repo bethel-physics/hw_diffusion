@@ -23,4 +23,7 @@ Modify the <tt>diffusion_hw.m</tt> program to solve the 1D heat diffusion equati
    * Case 2: Neumann conditions for insulation with *dT/dx* = 0 at *x* = ±*L*/2
    * Case 3: Mixed conditions with *dT/dx* = 0 at *x* = -*L*/2 and *T* = 0 at *x* = *L*/2
    
-Commit your program(s) along with a plot of temperature vs. time at *x* = 0 for each case, labeling each case.
+Plot:
+ * Temperature vs. time at *x* = 0 for each boundary case, labeling each case.
+ * *T*(*x*, *t*) with position on the *x*-axis, time on the *y*-axis, and temperature shown as color (plot for one boundary condition).  
+
