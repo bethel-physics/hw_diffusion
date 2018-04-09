@@ -25,5 +25,5 @@ Modify the <tt>diffusion_hw.m</tt> program to solve the 1D heat diffusion equati
    
 Plot:
  * Temperature vs. time at *x* = 0 for each boundary case, labeling each case.
- * *T*(*x*, *t*) with position on the *x*-axis, time on the *y*-axis, and temperature shown as color (plot for one boundary condition).  
+ * *T*(*x*, *t*) as a surface plot with position on the *x*-axis, time on the *y*-axis, and temperature as the *z*/color axis (plot for one boundary condition).  
 
